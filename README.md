@@ -35,6 +35,8 @@
 структуру и типизацию.
 https://github.com/NIKI-fed/PRFinal-XR_Place_29_1/tree/develop
 
+[XR Place](https://github.com/NIKI-fed/PRFinal-XR_Place_29_1/tree/develop)
+
 
 <!--
 **NIKI-fed/NIKI-fed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
