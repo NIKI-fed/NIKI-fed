@@ -30,12 +30,11 @@
 - Провел модернизацию проекта: мигрировал сборку с Gulp на Vite, что повысило скорость
 сборки и удобство разработки.
 
-**Сайт-визитка на React & TypeScript**
+**[XR Place](https://github.com/NIKI-fed/PRFinal-XR_Place_29_1/tree/develop) - cайт-визитка на React & TypeScript**
 - Участвовал в разработке одностраничного приложения (SPA). Настроил компонентную
 структуру и типизацию.
-https://github.com/NIKI-fed/PRFinal-XR_Place_29_1/tree/develop
 
-[XR Place](https://github.com/NIKI-fed/PRFinal-XR_Place_29_1/tree/develop)
+
 
 
 <!--
